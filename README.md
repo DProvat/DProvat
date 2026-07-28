@@ -8,7 +8,6 @@ Skills:  HTML / CSS/ PHP / python
 - 🔭 I’m currently working on Durjoysoft 
 - 🌱 I’m currently learning Python 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Provat-14&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Provat-14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/provat_14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arprovat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Provat_14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arprovat.com/)  
 
 
@@ -16,3 +15,5 @@ Skills:  HTML / CSS/ PHP / python
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Provat-14&theme=dark&hide_border=false)&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Provat-14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Provat-14&theme=github_dark)
+<img alt="Provat-14's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Provat-14&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
+
